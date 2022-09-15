@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ScottyZam/Scottyzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can hold my breathe for 2 minutes
 -->
 
-Hello, I am Scotty
+##Hello, I am Scotty
 - 🔭 I’m currently working on writing a data science blog for everyone to reference
 - 🌱 I’m currently learning bayesian statistics and new python skills
 - 💬 Ask me about regression and machine learning
