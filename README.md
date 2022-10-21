@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about regression and machine learning
 - 📫 How to reach me: scottzambrano2@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can hold my breathe for 2 minutes
+- ⚡ Fun fact: I have a cat named Pearl
 -->
 
 ## Hello, I am Scotty
